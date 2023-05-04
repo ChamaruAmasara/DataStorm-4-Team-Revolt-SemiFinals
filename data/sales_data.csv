@@ -1,11 +1,4 @@
-Outlet_ID,week,pid,product_name,no_units
-ID7203,1,IP1,Vanilla Mini Cone,874.0
-ID7203,1,IP2,Chocolate Petite Bar,105.0
-ID7203,1,IP3,Strawberry Tiny Cup,1198.0
-ID7203,1,IP4,Mint Bite-size Pop,502.0
-ID7203,1,IP5,Butter Pecan Small Stick,710.0
-ID7203,2,IP1,Vanilla Mini Cone,644.0
-ID7203,2,IP2,Chocolate Petite Bar,265.0
+sale
 ID7203,2,IP3,Strawberry Tiny Cup,1106.0
 ID7203,2,IP4,Mint Bite-size Pop,387.0
 ID7203,3,IP1,Vanilla Mini Cone,600.0
